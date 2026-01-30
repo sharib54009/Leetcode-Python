@@ -20,4 +20,3 @@ target = 9
 
 result = twoSum(nums, target)
 print(result)
-
